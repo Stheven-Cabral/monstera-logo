@@ -1,10 +1,11 @@
 import React from 'react';
 import './App.css';
+import Monstera from './monstera.svg'
 
 function App() {
   return (
     <div className="App">
-      <img src="/monstera.svg" alt="monstera logo"/>
+      <img src={Monstera} alt="monstera logo"/>
     </div>
   );
 }
