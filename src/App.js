@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Monstera from './monstera.svg'
+import Monstera from './components/svgs/monstera.svg'
 
 function App() {
   return (
