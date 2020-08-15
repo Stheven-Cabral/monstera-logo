@@ -6,8 +6,8 @@ import Logo from './components/Logo';
 function App() {
   return (
     <div className="App">
-      <img src={Monstera} alt="monstera logo"/>
-      <Logo />
+      <img src={Monstera} alt="monstera logo" className="monstera" />
+      <Logo className="logo" />
     </div>
   );
 }
