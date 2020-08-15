@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 import Monstera from './components/svgs/monstera.svg'
 import Logo from './components/Logo';
 
