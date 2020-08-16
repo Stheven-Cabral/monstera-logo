@@ -1,29 +1,9 @@
 .monstera {
-  height: 100px;
-  width: 100px;
+  height: 700px;
+  width: 700px;
   position: absolute;
-}
-
-svg {
-  box-shadow: 10px;
-}
-
-#leaf1 {
-  left: -50px;
-  top: -50px;
-}
-
-#leaf2 {
-  left: 675px;
-  top: -25px;;
-}
-
-#leaf3 {
-  left: -25px;
-  top: 375px;
-}
-
-#leaf4 {
-  left: 675px;
-  top: 375px;
+  transform: rotate(-10deg);
+  left: -10px;
+  opacity: 0.2;
+  z-index: 50;
 }

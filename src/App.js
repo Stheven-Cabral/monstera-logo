@@ -6,10 +6,7 @@ import './scss/styles.scss';
 function App() {
   return (
     <div className="logo">
-      <img src={Monstera} alt="monstera logo" className="monstera" id="leaf1"/>
-      <img src={Monstera} alt="monstera logo" className="monstera" id="leaf2"/>
-      <img src={Monstera} alt="monstera logo" className="monstera" id="leaf3"/>
-      <img src={Monstera} alt="monstera logo" className="monstera" id="leaf4"/>
+      <img src={Monstera} alt="monstera logo" className="monstera"/>
       <Logo className="text" />
     </div>
   );
