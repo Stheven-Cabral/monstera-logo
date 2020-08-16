@@ -2,7 +2,10 @@
   height: 100px;
   width: 100px;
   position: absolute;
-  stroke: white;
+}
+
+svg {
+  box-shadow: 10px;
 }
 
 #leaf1 {

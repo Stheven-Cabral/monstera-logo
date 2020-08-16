@@ -4,7 +4,7 @@ const Logo = () => {
   return(
     <div className="inner-container">
       <h1>MONSTERA</h1>
-      <h3>DELICIOSA</h3>
+      <h3>Deliciosa</h3>
     </div>
   )
 }
