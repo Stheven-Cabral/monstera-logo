@@ -1,6 +1,26 @@
 .monstera {
-  height: 50px;
-  width: 50px;
+  height: 100px;
+  width: 100px;
   position: absolute;
+  stroke: white;
 }
 
+#leaf1 {
+  left: -50px;
+  top: -50px;
+}
+
+#leaf2 {
+  left: 675px;
+  top: -25px;;
+}
+
+#leaf3 {
+  left: -25px;
+  top: 375px;
+}
+
+#leaf4 {
+  left: 675px;
+  top: 375px;
+}
